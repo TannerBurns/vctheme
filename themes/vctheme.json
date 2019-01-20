@@ -106,7 +106,7 @@
         {
             "name": "Dark_Green_Types_Non_Italic",
             "scope": [
-                "comment",
+                "comment"
             ],
             "settings": {
                 "foreground": "#00b33c"
@@ -116,7 +116,7 @@
             "name": "Orange_Types_Non_Italic",
             "scope": [
                 "support.function",
-                "variable",
+                "variable.other.assignment",
                 "entity.other.attribute-name.html",
                 "support.variable",
                 "entity.other.attribute-name.id.css"
