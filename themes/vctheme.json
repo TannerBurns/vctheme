@@ -1,0 +1,113 @@
+{
+    "name": "VCTheme.v1",
+    "type": "dark",
+    "colors": {
+        "sideBar.background": "#0d1a26",
+        "panel.background": "#0d1a26",
+        "activityBar.background": "#0d1a26",
+        "editorLineNumber.activeForeground": "#006eff",
+        "editorGroupHeader.tabsBackground": "#0d1a26",
+        "titleBar.activeBackground": "#0d1a26",
+        "editor.background": "#132639"
+    },
+    "tokenColors": [
+        {
+            "name": "Source",
+            "scope": [
+                "source"
+            ],
+            "settings": {
+                "foreground": "#ffffff"
+            }
+        },
+        {
+            "name": "Red_Types_Italic",
+            "scope": [
+                "keyword.function",
+                "keyword.type"
+            ],
+            "settings": {
+                "foreground": "#ff8080",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Red_Types_Non_Italic",
+            "scope": [
+                "constant.language",
+                "string.json"
+            ],
+            "settings": {
+                "foreground": "#ff8080"
+            }
+        },
+        {
+            "name": "Purple_Types_Italic",
+            "scope": [
+                "keyword.control"
+            ],
+            "settings": {
+                "foreground": "#ccb3ff",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Purple_Types_Non_Italic",
+            "scope": [
+                "keyword.operator"
+            ],
+            "settings": {
+                "foreground": "#ccb3ff"
+            }
+        },
+        {
+            "name": "Blue_Types_Non_Italic",
+            "scope": [
+                "entity.name.function",
+                "storage.type"
+            ],
+            "settings": {
+                "foreground": "#b3d1ff"
+            }
+        },
+        {
+            "name": "Dark_Blue_Types_Non_Italic",
+            "scope": [
+                "keyword.struct",
+                "entity.name.function"
+            ],
+            "settings": {
+                "foreground": "#80b3ff"
+            }
+        },
+        {
+            "name": "Green_Types_Non_Italic",
+            "scope": [
+                "string.quoted"
+            ],
+            "settings": {
+                "foreground": "#b3ffb3"
+            }
+        },
+        {
+            "name": "Dark_Green_Types_Non_Italic",
+            "scope": [
+                "comment"
+            ],
+            "settings": {
+                "foreground": "#00b33c"
+            }
+        },
+        {
+            "name": "Orange_Types_Non_Italic",
+            "scope": [
+                "support.function",
+                "variable"
+            ],
+            "settings": {
+                "foreground": "#ffd9b3"
+            }
+        }
+
+    ]
+}

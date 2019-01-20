@@ -1,0 +1,26 @@
+{
+  "name": "vctheme",
+  "version": "1.0.0",
+  "description": "Custom Visual Studio Code Theme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanner Burns",
+  "publisher": "tburns",
+  "engines": {
+    "vscode":"^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VCTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vctheme.json"
+      }
+    ]
+  },
+  "license": "ISC"
+}
