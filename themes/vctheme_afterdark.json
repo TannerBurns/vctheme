@@ -69,7 +69,7 @@
             "scope": [
                 "keyword.operator",
                 "constant.other",
-                "constant.numeric",
+                "constant.numeric"
             ],
             "settings": {
                 "foreground": "#ccb3ff"

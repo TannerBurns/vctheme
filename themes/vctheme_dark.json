@@ -94,7 +94,7 @@
                 "entity.name.function",
                 "entity.name.tag",
                 "text.log",
-                "keyword.other.unit.px.css"
+                "keyword.other"
             ],
             "settings": {
                 "foreground": "#80b3ff"
@@ -128,7 +128,8 @@
                 "variable.other.assignment",
                 "entity.other.attribute-name.html",
                 "support.variable",
-                "entity.other.attribute-name.id.css"
+                "entity.other.attribute-name.id.css",
+                "support.constant.property-value"
             ],
             "settings": {
                 "foreground": "#ffd9b3"
