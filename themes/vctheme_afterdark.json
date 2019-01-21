@@ -88,6 +88,7 @@
             "name": "Dark_Blue_Types_Non_Italic",
             "scope": [
                 "keyword.struct",
+                "keyword.interface",
                 "entity.name.function",
                 "entity.name.tag",
                 "keyword.other.unit.px.css"
