@@ -43,6 +43,8 @@
             "name": "Red_Types_Non_Italic",
             "scope": [
                 "constant.language",
+                "variable.language.this",
+                "variable.language.self",
                 "string.json",
                 "punctuation.definition.tag.begin.html",
                 "punctuation.definition.tag.end.html",
@@ -91,6 +93,7 @@
                 "keyword.interface",
                 "entity.name.function",
                 "entity.name.tag",
+                "text.log",
                 "keyword.other.unit.px.css"
             ],
             "settings": {
@@ -101,6 +104,8 @@
             "name": "Green_Types_Non_Italic",
             "scope": [
                 "string.quoted",
+                "string.template",
+                "log.string",
                 "entity.other.attribute-name.class.css"
             ],
             "settings": {
