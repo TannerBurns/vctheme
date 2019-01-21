@@ -16,9 +16,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "VCTheme",
+        "label": "VCTheme Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/vctheme.json"
+        "path": "./themes/vctheme_dark.json"
+      },
+      {
+        "label": "VCTheme After Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vctheme_afterdark.json"
       }
     ]
   },

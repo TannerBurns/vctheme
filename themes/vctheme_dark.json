@@ -1,14 +1,17 @@
 {
-    "name": "VCTheme.v1",
+    "name": "VCTheme Day.v1",
     "type": "dark",
     "colors": {
-        "sideBar.background": "#0d1a26",
-        "panel.background": "#0d1a26",
-        "activityBar.background": "#0d1a26",
         "editorLineNumber.activeForeground": "#006eff",
-        "editorGroupHeader.tabsBackground": "#0d1a26",
-        "titleBar.activeBackground": "#0d1a26",
-        "editor.background": "#132639"
+
+        "sideBar.background": "#262626",
+        "panel.background": "#262626",
+        "editorGroupHeader.tabsBackground": "#262626",
+        "tab.inactiveBackground": "#262626",
+
+        "activityBar.background": "#1a1a1a",
+        "titleBar.activeBackground": "#1a1a1a",
+        "editor.background": "#1a1a1a"
     },
     "tokenColors": [
         {
