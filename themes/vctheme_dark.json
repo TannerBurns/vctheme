@@ -89,6 +89,7 @@
         {
             "name": "Dark_Blue_Types_Non_Italic",
             "scope": [
+                "support.function",
                 "keyword.struct",
                 "keyword.interface",
                 "entity.name.function",
@@ -124,7 +125,6 @@
         {
             "name": "Orange_Types_Non_Italic",
             "scope": [
-                "support.function",
                 "variable.other.assignment",
                 "entity.other.attribute-name.html",
                 "support.variable",
