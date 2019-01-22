@@ -79,8 +79,9 @@
             "name": "Blue_Types_Non_Italic",
             "scope": [
                 "entity.name.function",
+                "meta.function-call.generic",
                 "storage.type",
-                "support.type.property-name.css"
+                "support.type"
             ],
             "settings": {
                 "foreground": "#b3d1ff"
