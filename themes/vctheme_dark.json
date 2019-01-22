@@ -44,7 +44,7 @@
             "scope": [
                 "constant.language",
                 "variable.language.this",
-                "variable.language.self",
+                "variable.language.special.self",
                 "string.json",
                 "punctuation.definition.tag.begin.html",
                 "punctuation.definition.tag.end.html",
