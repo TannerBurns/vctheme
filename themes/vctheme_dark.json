@@ -11,7 +11,9 @@
 
         "activityBar.background": "#1a1a1a",
         "titleBar.activeBackground": "#1a1a1a",
-        "editor.background": "#1a1a1a"
+        "editor.background": "#1a1a1a",
+
+        "editor.foreground":  "#FFFFFF"
     },
     "tokenColors": [
         {
@@ -115,12 +117,12 @@
             }
         },
         {
-            "name": "Dark_Green_Types_Non_Italic",
+            "name": "Grey_Types_Non_Italic",
             "scope": [
                 "comment"
             ],
             "settings": {
-                "foreground": "#00b33c"
+                "foreground": "#999999"
             }
         },
         {
