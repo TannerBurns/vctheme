@@ -130,6 +130,7 @@
                 "entity.other.attribute-name.html",
                 "support.variable",
                 "entity.other.attribute-name.id.css",
+                "meta.function-call.arguments",
                 "support.constant.property-value"
             ],
             "settings": {
