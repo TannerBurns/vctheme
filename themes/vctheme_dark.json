@@ -13,7 +13,7 @@
         "titleBar.activeBackground": "#1a1a1a",
         "editor.background": "#1a1a1a",
 
-        "editor.foreground":  "#FFFFFF"
+        "editor.foreground":  "#f2f2f2"
     },
     "tokenColors": [
         {
@@ -27,7 +27,7 @@
                 "punctuation.support.type.property-name.end.json"
             ],
             "settings": {
-                "foreground": "#ffffff"
+                "foreground": "#f2f2f2"
             }
         },
         {
