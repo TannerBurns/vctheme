@@ -24,6 +24,11 @@
         "label": "VCTheme After Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/vctheme_afterdark.json"
+      },
+      {
+        "label": "VCTheme Slick",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vctheme_slick.json"
       }
     ]
   },
