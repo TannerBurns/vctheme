@@ -1,5 +1,5 @@
 {
-    "name": "VCTheme Dark V1",
+    "name": "VCTheme Dark V2",
     "type": "dark",
     "colors": {
         "editorLineNumber.activeForeground": "#006eff",
@@ -44,6 +44,7 @@
         {
             "name": "Red_Types_Non_Italic",
             "scope": [
+                "entity.name.function",
                 "constant.language",
                 "variable.language.this",
                 "variable.language.special.self",
@@ -59,7 +60,7 @@
         {
             "name": "Purple_Types_Italic",
             "scope": [
-                "keyword.control"
+                "keyword.operator"
             ],
             "settings": {
                 "foreground": "#ccb3ff",
@@ -69,9 +70,12 @@
         {
             "name": "Purple_Types_Non_Italic",
             "scope": [
-                "keyword.operator",
-                "constant.other",
-                "constant.numeric"
+                "variable.other.assignment",
+                "entity.other.attribute-name.html",
+                "support.variable",
+                "entity.other.attribute-name.id.css",
+                "meta.function-call.arguments",
+                "support.constant.property-value"
             ],
             "settings": {
                 "foreground": "#ccb3ff"
@@ -80,22 +84,20 @@
         {
             "name": "Blue_Types_Non_Italic",
             "scope": [
-                "entity.name.function",
-                "meta.function-call.generic",
                 "storage.type",
                 "support.type"
             ],
             "settings": {
-                "foreground": "#b3d1ff"
+                "foreground": "#80d4ff"
             }
         },
         {
             "name": "Dark_Blue_Types_Non_Italic",
             "scope": [
+                "meta.function-call.generic",
                 "support.function",
                 "keyword.struct",
                 "keyword.interface",
-                "entity.name.function",
                 "entity.name.tag",
                 "text.log",
                 "keyword.other"
@@ -128,15 +130,12 @@
         {
             "name": "Orange_Types_Non_Italic",
             "scope": [
-                "variable.other.assignment",
-                "entity.other.attribute-name.html",
-                "support.variable",
-                "entity.other.attribute-name.id.css",
-                "meta.function-call.arguments",
-                "support.constant.property-value"
+                "keyword.control",
+                "constant.other",
+                "constant.numeric"
             ],
             "settings": {
-                "foreground": "#ffd9b3"
+                "foreground": "#ffbf80"
             }
         }
 
