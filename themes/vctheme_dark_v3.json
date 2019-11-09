@@ -1,0 +1,145 @@
+{
+    "name": "VCTheme Dark V3",
+    "type": "dark",
+    "colors": {
+        "editorLineNumber.activeForeground": "#006eff",
+
+        "sideBar.background": "#262626",
+        "panel.background": "#262626",
+        "editorGroupHeader.tabsBackground": "#262626",
+        "tab.inactiveBackground": "#262626",
+
+        "activityBar.background": "#1a1a1a",
+        "titleBar.activeBackground": "#1a1a1a",
+        "editor.background": "#1a1a1a",
+
+        "editor.foreground":  "#f2f2f2"
+    },
+    "tokenColors": [
+        {
+            "name": "Source",
+            "scope": [
+                "source",
+                "text.html",
+                "punctuation.definition.string.begin.html",
+                "punctuation.definition.string.end.html",
+                "punctuation.support.type.property-name.begin.json",
+                "punctuation.support.type.property-name.end.json"
+            ],
+            "settings": {
+                "foreground": "#f2f2f2"
+            }
+        },
+        {
+            "name": "Red_Types_Italic",
+            "scope": [
+                "keyword.function",
+                "keyword.type"
+            ],
+            "settings": {
+                "foreground": "#ff8080",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Red_Types_Non_Italic",
+            "scope": [
+                "variable.language.this",
+                "variable.language.special.self",
+                "keyword.control",
+                "constant.other",
+                "constant.numeric"
+            ],
+            "settings": {
+                "foreground": "#ff8080"
+            }
+        },
+        {
+            "name": "Purple_Types_Italic",
+            "scope": [
+                "keyword.operator"
+            ],
+            "settings": {
+                "foreground": "#ccb3ff",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Purple_Types_Non_Italic",
+            "scope": [
+                "variable.other.assignment",
+                "entity.other.attribute-name.html",
+                "support.variable",
+                "entity.other.attribute-name.id.css",
+                "meta.function-call.arguments",
+                "support.constant.property-value"
+            ],
+            "settings": {
+                "foreground": "#ccb3ff"
+            }
+        },
+        {
+            "name": "Blue_Types_Non_Italic",
+            "scope": [
+                "storage.type",
+                "support.type"
+            ],
+            "settings": {
+                "foreground": "#80d4ff"
+            }
+        },
+        {
+            "name": "Dark_Blue_Types_Non_Italic",
+            "scope": [
+                "meta.function-call.generic",
+                "support.function",
+                "keyword.struct",
+                "keyword.interface",
+                "entity.name.tag",
+                "text.log",
+                "keyword.other"
+            ],
+            "settings": {
+                "foreground": "#80b3ff"
+            }
+        },
+        {
+            "name": "Green_Types_Non_Italic",
+            "scope": [
+                "string.quoted",
+                "string.template",
+                "log.string",
+                "entity.other.attribute-name.class.css"
+            ],
+            "settings": {
+                "foreground": "#b3ffb3"
+            }
+        },
+        {
+            "name": "Grey_Types_Non_Italic",
+            "scope": [
+                "comment"
+            ],
+            "settings": {
+                "foreground": "#999999"
+            }
+        },
+        {
+            "name": "Orange_Types_Non_Italic",
+            "scope": [
+                "entity.name.type.class.python",
+                "keyword.control.import.python",
+                "entity.name.function",
+                "constant.language",
+                "string.json",
+                "punctuation.definition.tag.begin.html",
+                "punctuation.definition.tag.end.html",
+                "entity.name.tag.css"
+            ],
+            "settings": {
+                "foreground": "#ffbf80"
+            }
+        }
+
+    ]
+}

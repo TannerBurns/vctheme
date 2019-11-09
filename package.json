@@ -26,6 +26,11 @@
         "path": "./themes/vctheme_dark_v2.json"
       },
       {
+        "label": "VCTheme Dark V3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vctheme_dark_v3.json"
+      },
+      {
         "label": "VCTheme After Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/vctheme_afterdark.json"
